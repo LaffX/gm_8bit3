@@ -59,7 +59,7 @@ Added many voice presets, reworked sv_broadcastdata. Fixed many bugs introduced 
 
 `Eightbit.EFF_COMBO` is a hybrid of ring modulation, soft limiting, comb filtering, and bandpass filtering. Creates a "Metrocop" effect.
 
-# Edited by RG Studio and Quantum Ocean projects ?
+# Edited by "RG Studio" and "Quantum Ocean" projects
 
-# Original module - https://github.com/Meachamp/gm_8bit
-# The module taken as a base - https://github.com/Devinsideer/gm_8bit2
+### Original module - https://github.com/Meachamp/gm_8bit
+### The module taken as a base - https://github.com/Devinsideer/gm_8bit2
