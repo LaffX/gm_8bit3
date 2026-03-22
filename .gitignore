@@ -1,0 +1,19 @@
+# build output
+projects/
+bin/
+obj/
+*.o
+*.so
+*.dll
+*.a
+*.lib
+*.pdb
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# temporary
+*.log
